@@ -87,6 +87,13 @@ const MainComponent = () => {
             }
           }}
         />
+        <a
+          href="https://github.com/yzStrive/tw-replay-random-picker"
+          target="_blank"
+          rel="noreferrer"
+        >
+          代码开源地址
+        </a>
       </Space>
       {/* @ts-ignore */}
       <Spin spinning={loading}>
